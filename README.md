@@ -1,4 +1,4 @@
-## Netflix clone
+z## Netflix clone
 React+TypeScriptで作ったNetflixクローンアプリケーションです。
 
 ## 使用技術
